@@ -1,0 +1,6 @@
+if SHIELD_2X6TEST
+
+config ZMK_KEYBOARD_NAME
+    default "2x6test"
+
+endif
